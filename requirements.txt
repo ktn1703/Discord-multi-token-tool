@@ -1,0 +1,6 @@
+requests 
+websocket-client 
+colorama 
+discord.py 
+pycryptodome 
+pywin32
