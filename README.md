@@ -79,3 +79,6 @@ If this repository reaches 30 stars, a major update will be released with featur
 a few other Discord tools
 - [Discord Token Checker](https://github.com/Swp-dev/Token-Checker-Discord).
 - [Discord Voice Joiner](https://github.com/Swp-dev/Join-Voice-Discord).
+
+<img width="1699" height="629" alt="image" src="https://github.com/user-attachments/assets/ae55118f-a59f-44f6-a90f-3d01b790a4d9" />
+
