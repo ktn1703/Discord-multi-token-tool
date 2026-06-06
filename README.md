@@ -55,7 +55,7 @@ token_3_here
 ### Step 3: Launch the Tool
 Run the main script with the following command:
 ```bash
-py main.py
+python obf-xynt.py
 ```
 
 ---
